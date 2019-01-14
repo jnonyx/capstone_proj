@@ -1,25 +1,26 @@
+My ultimate goal is to use my capstone project to land a job in the field of data science so I would like to use datasets and problems
+that are business related.
 
-1. Kaggle House Price
-    https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+1. House Prices: Advanced Regression Techniques
+Predict sales prices and practice feature engineering, RFs, and gradient boosting
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
-
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 
-
-
-2.Real estate valuation data set Data Set 
-
-https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
-Is the data enough? (only 400+ rows)
-
-
-3.Red Wine Quality: Simple and clean practice dataset for regression or classification modelling
-
-https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
-
-
-4.Credit Card Fraud Detection
+2.Credit Card Fraud Detection
 https://www.kaggle.com/mlg-ulb/creditcardfraud/home
 
+
+3.Santander Value Prediction Challenge
+Predict the value of transactions for potential customers.
+https://www.kaggle.com/c/santander-value-prediction-challenge/
+
+Others: 
+
+Red Wine Quality: Simple and clean practice dataset for regression or classification modelling
+https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+
+Real estate valuation data set Data Set 
+https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
